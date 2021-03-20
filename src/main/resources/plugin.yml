@@ -1,0 +1,9 @@
+name: TofuBuilder
+version: ${project.version}
+main: cube.builder.cubebuilder.TofuBuilder
+api-version: 1.16
+
+commands:
+  tofu:
+    usage: /tofu [args]
+
